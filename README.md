@@ -1,2 +1,2 @@
 # geolocation
-## Tools ini untuk lacak lokasi dengan ip addres
+## Tools ini untuk lacak lokasi seseorang dengan ip addres
